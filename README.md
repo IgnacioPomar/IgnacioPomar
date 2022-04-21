@@ -1,6 +1,6 @@
 Hi, my name is Ignacio Pomar.
 
-In my repositories I archieve the project I'd wish to make at worktime, but neve have time for them
+In my repositories I archieve the projects I'd wish to make at worktime, but never have time for them
 
 # Profesional profile
 Throughout my professional life I have gone from a purely technical level to more complex projects, assuming greater responsibility in team management and in company management.
